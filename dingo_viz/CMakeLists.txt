@@ -5,7 +5,8 @@ find_package(catkin REQUIRED COMPONENTS roslaunch)
 
 catkin_package()
 
-roslaunch_add_file_check(launch/view_model.launch)
+roslaunch_add_file_check(launch/view_model.dingo_d.launch)
+roslaunch_add_file_check(launch/view_model.dingo_o.launch)
 roslaunch_add_file_check(launch/view_robot.launch)
 
 install(DIRECTORY launch rviz

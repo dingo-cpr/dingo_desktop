@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<package>
+<package format="2">
   <name>dingo_viz</name>
   <version>0.0.0</version>
   <description>Visualization launchers and helpers for Dingo.</description>
 
-  <maintainer email="dniewinski@clearpathrobotics.com">Dave Niewinski</maintainer>
+  <maintainer email="tbaltovski@clearpathrobotics.com">Tony Baltovski</maintainer>
 
   <license>BSD</license>
 
