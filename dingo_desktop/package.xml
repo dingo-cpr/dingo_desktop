@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<package format="2">
+<package format="3">
   <name>dingo_desktop</name>
   <version>0.1.0</version>
   <description>Packages for working with Dingo from a ROS desktop.</description>
