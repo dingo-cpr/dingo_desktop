@@ -2,6 +2,15 @@
 Changelog for package dingo_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.1 (2022-01-15)
+------------------
+* Add rqt directory and launch file check
+* Add rqt_gui as exec_depend
+* Alphabetized and separated test_depend
+* Changed run_depend to exec_depend
+* Added view_diagnostics
+* Contributors: Luis Camero, luis-camero
+
 0.1.0 (2020-08-13)
 ------------------
 * Consolidated launch files.

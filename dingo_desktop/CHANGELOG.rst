@@ -2,6 +2,9 @@
 Changelog for package dingo_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.1 (2022-01-15)
+------------------
+
 0.1.0 (2020-08-13)
 ------------------
 * Consolidated launch files.
