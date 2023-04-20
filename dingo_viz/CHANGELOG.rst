@@ -2,6 +2,11 @@
 Changelog for package dingo_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Bump CMake version to avoid CMP0048 warning.
+* Contributors: Tony Baltovski
+
 0.1.1 (2022-01-15)
 ------------------
 * Add rqt directory and launch file check
